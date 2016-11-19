@@ -5,8 +5,8 @@ body {
   /*overflow: hidden;*/
 }
 
-span {
-  font-size: 1.5px;
+.arrow {
+  font-size: 1.5em;
 }
 
 a:link {
